@@ -1,5 +1,4 @@
-"use client";
+/* eslint-disable prettier/prettier */
+import Home from "@/root/_app/_modules/home"
 
-import AppModule from "@/_modules/user-landing";
-
-export default AppModule;
+export default Home
